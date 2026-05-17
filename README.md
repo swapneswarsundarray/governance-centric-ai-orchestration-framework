@@ -14,6 +14,10 @@ The goal is to make AI workflows policy-aware, auditable, observable, validated,
 Whitepaper DOI: https://doi.org/10.5281/zenodo.20259316
 
 
+## GAOF Architecture
+
+![GAOF Architecture](docs/architecture-diagram.png)
+
 # GAOF Enterprise Demo
 
 Enterprise-style multi-class implementation of the Governance-Centric AI Orchestration Framework (GAOF).
