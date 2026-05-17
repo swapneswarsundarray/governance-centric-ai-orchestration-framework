@@ -12,3 +12,19 @@ GAOF is a reference architecture for governed AI workflows. It separates enterpr
 The goal is to make AI workflows policy-aware, auditable, observable, validated, and recoverable.
 
 Whitepaper DOI: https://doi.org/10.5281/zenodo.20259316
+
+
+# GAOF Enterprise Demo
+
+Enterprise-style multi-class implementation of the Governance-Centric AI Orchestration Framework (GAOF).
+
+## Runtime Flow
+
+User Request
+→ Governance Policy Check
+→ Orchestrator
+→ AI Reasoning
+→ Validation Gate
+→ Observability Log
+→ Rollback if failed
+
