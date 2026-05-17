@@ -16,7 +16,7 @@ Whitepaper DOI: https://doi.org/10.5281/zenodo.20259316
 
 ## GAOF Architecture
 
-![GAOF Architecture](docs/architecture-diagram.png)
+![GAOF Architecture](docs/architecture.jpg)
 
 # GAOF Enterprise Demo
 
